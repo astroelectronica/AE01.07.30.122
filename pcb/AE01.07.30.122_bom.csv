@@ -1,0 +1,35 @@
+Reference, Value, Footprint, Datasheet, MPN
+C1,0.047uF,Capacitor_THT:C_Rect_L18.0mm_W5.0mm_P15.00mm_FKS3_FKP3,~,R46KI24700001K
+C10,0.01uF,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,~,K103K15X7RF5TL2
+C2,10uF/400V,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm,~,UCY2G100MPD
+C3,22uF/400V,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,~,UCS2G220MHD
+C4,100pF/1KV,Capacitor_THT:C_Disc_D7.5mm_W5.0mm_P5.00mm,~,F101K25Y5RN63K5R
+C5,22uF/25V,Capacitor_THT:CP_Radial_D6.3mm_P2.50mm,~,EEA-GA1E220H
+C6,10nF/50V,Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2,~,SMR5103J50J01L16.5CBULK
+C7,4.7nF/760V,Capacitor_THT:C_Disc_D16.0mm_W5.0mm_P10.00mm,~,VY1472M63Y5UQ63V0
+C8,1500uF/25V,Capacitor_THT:CP_Radial_D12.5mm_P5.00mm,~,EEU-FM1E152
+C9,100uF/25V,Capacitor_THT:CP_Radial_D10.0mm_P2.50mm_P5.00mm,~,EKRG250ETD101MJ09S
+CONN1,100-240Vac,"Connector_Phoenix_GMSTB:PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal",~,1728853
+CONN2,12V/0.85A,"Connector_Phoenix_GMSTB:PhoenixContact_GMSTBA_2,5_2-G-7,62_1x02_P7.62mm_Horizontal",~,1728853
+D1,GBU4K-E3/51,Diode_THT:Diode_Bridge_Vishay_GBU,~,GBU4K-E3/51
+D2,1N4148,Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal,~,1N4148TR
+D3,BYW98-200,Diode_THT:D_DO-201AD_P15.24mm_Horizontal,~,SB3200TA
+F1,1AT/250V,Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open,~,31.8201
+H1,M2.5,MountingHole:MountingHole_2.7mm_M2.5_Pad_Via,~,
+H2,M2.5,MountingHole:MountingHole_2.7mm_M2.5_Pad_Via,~,
+H3,M2.5,MountingHole:MountingHole_2.7mm_M2.5_Pad_Via,~,
+H4,M2.5,MountingHole:MountingHole_2.7mm_M2.5_Pad_Via,~,
+L1,2x35mH,AE01.17.25.000:L_CommonMode_Wuerth_WE-CMB-NC,~,7448040435
+L2,10uH,Inductor_THT:L_Radial_D8.7mm_P5.00mm_Fastron_07HCP,~,RLB0914-100KL
+R1,5ohm/1W,Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal,~,ALSR015R000JE12
+R2,9.09K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,RNF14FTD9K09
+R3,2K/0.5W,Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal,~,CF12JT2K00
+R4,68.1,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,RNF14FTD68R1
+R5,475,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,RNF14FTD475R
+R6,DNP,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,
+R7,13.3K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,MFR-25FBF52-13K3
+R8,3.48K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,~,MFR-25FBF52-3K48
+T1,CVP_32-001,AE01.17.29.000:CVP_32-001,~,CVP 32-001
+U1,VIPer22ADIP-E,Package_DIP:DIP-8_W7.62mm,~,VIPER22ADIP-E
+U2,LTV-817,Package_DIP:DIP-4_W7.62mm,~,LTV-817
+U3,TL431,Package_TO_SOT_THT:TO-92_Inline_Wide,~,TL431CLPRE3

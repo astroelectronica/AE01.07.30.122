@@ -1,0 +1,31 @@
+Drill report for /home/astroelectronica/AE/AE01.07.30.122/pcb/AE01.07.30.122.kicad_pcb
+Created on vie 26 jun 2020 14:00:00 CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'AE01.07.30.122-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,50mm  0,020"  (32 holes)
+    T2  0,80mm  0,031"  (41 holes)
+    T3  0,84mm  0,033"  (8 holes)
+    T4  1,00mm  0,039"  (8 holes)
+    T5  1,20mm  0,047"  (12 holes)
+    T6  1,30mm  0,051"  (4 holes)
+    T7  1,40mm  0,055"  (4 holes)
+    T8  1,60mm  0,063"  (6 holes)
+    T9  2,70mm  0,106"  (4 holes)
+
+    Total plated holes count 119
+
+
+Drill file 'AE01.07.30.122-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2,70mm  0,106"  (1 hole)
+
+    Total unplated holes count 1
